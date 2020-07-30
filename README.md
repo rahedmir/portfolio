@@ -4,3 +4,5 @@
  This is a general template, please modify it according to your needs 
  
  <img src="screenshot.PNG" width="95%">
+ 
+ <h2>Preview <a href="https://rahedmir.github.io/portfolio/" target="_blank">Click here</a><h2/>
